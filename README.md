@@ -25,7 +25,7 @@ pip install numpy requests Pillow matplotlib gitpython
 
 1. **Prepare your input:**
 
-   - Place the path to the **GeoJSON file** containing the input geographical coordinates into line 32.
+   - Place the path to the input **GeoJSON file** containing the input geographical coordinates into line 32.
     ```python
    file_path = #insert GeoJSON file path here
     ```
