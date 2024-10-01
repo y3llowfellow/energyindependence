@@ -78,7 +78,7 @@ for lat, lon in coordinates:
 # Define the command and its arguments as a list
 command = [
     "yolo", "segment", "predict",
-    "model=/Users/colinshen/PycharmProjects/solar/best.pt",
+    "model="+output_file_path+"/best.pt",
     "imgsz=640",
     "save=True",
     "save_txt=True",
