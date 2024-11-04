@@ -1,6 +1,6 @@
 # Energy Independence
 
-This tool scans a specified geographical area from a GeoJSON file to detect solar panels and outputs the results as GeoJSON files with polygon shapes for each detected solar panel.
+This tool scans a specified geographical area from a GeoJSON file to measure energy independence, outputs the results as GeoJSON files with polygon shapes for each detected solar panel.
 
 ## Dependencies
 
