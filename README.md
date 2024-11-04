@@ -1,4 +1,4 @@
-# Solar Panel Detection Tool
+# Energy Independence: Solar Panel Detection Tool
 
 This tool scans a specified geographical area from a GeoJSON file to detect solar panels and outputs the results as GeoJSON files with polygon shapes for each detected solar panel.
 
